@@ -2,6 +2,7 @@
 Two PhD positions are funded by the NORRUS grant to address the following Work Packages:
 - WP1: Language of Threats
 - WP4: Synthesis
+
 In addition, a third PhD position has been awarded in a competition within UiT for:
 - WP2: Threat Text Analysis
 Of course we will encourage the PhD students to collaborate in work beyond the confines of their Work Packages.
