@@ -5,6 +5,7 @@ Two PhD positions are funded by the NORRUS grant to address the following Work P
 
 In addition, a third PhD position has been awarded in a competition within UiT for:
 - WP2: Threat Text Analysis
+
 Of course we will encourage the PhD students to collaborate in work beyond the confines of their Work Packages.
 
 The Announcements for the PhD positions for WP1 and WP2 have been approved and are included in this folder.
